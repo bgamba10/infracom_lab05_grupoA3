@@ -1,0 +1,1 @@
+La capturas de wireshark de BitTorrent son muy pesadas no suben a sicua, para la sustentación estarán.
